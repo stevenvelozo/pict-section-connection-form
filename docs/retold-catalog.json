@@ -1,5 +1,5 @@
 {
-	"Generated": "2026-05-26T21:13:06.541Z",
+	"Generated": "2026-06-01T03:46:45.366Z",
 	"Mode": "module",
 	"GitHubOrg": "fable-retold",
 	"DefaultBranch": "master",
@@ -57,7 +57,9 @@
 			"_version.json",
 			"examples/README.md",
 			"examples/connection_form_demo/README.md",
+			"examples/connection_form_demo/css/connection-form-demo.css",
 			"examples/connection_form_demo/index.html",
+			"examples/connection_form_demo/js/pict.min.js",
 			"examples/connection_form_demo/pict-section-connection-form-example-connection-form-demo.compatible.min.js",
 			"index.html",
 			"retold-catalog.json",
